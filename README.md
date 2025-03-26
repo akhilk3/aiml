@@ -56,9 +56,6 @@ curl -X POST http://127.0.0.1:5000/predict -H "Content-Type: application/json" -
 - Develop a frontend UI for user-friendly interaction.
 - Expand classification to cover more types of illegal websites.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## Author
 Kethiri Akhil Reddy
 
